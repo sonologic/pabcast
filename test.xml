@@ -1,0 +1,16 @@
+<ezstream>
+    <url>http://broadcast.sonologic.net:8080/foo.ogg</url>
+    <sourcepassword>bar</sourcepassword>
+    <format>VORBIS</format>
+    <filename>stdin</filename>
+    <stream_once>1</stream_once>
+    <svrinfoname>Live broadcast</svrinfoname>
+    <svrinfourl>http://signal.hackerspaces.org/</svrinfourl>
+    <svrinfogenre>Talk</svrinfogenre>
+    <svrinfodescription>Live broadcast</svrinfodescription>
+    <svrinfobitrate>112</svrinfobitrate>
+    <svrinfoquality>3.0</svrinfoquality>
+    <svrinfochannels>2</svrinfochannels>
+    <svrinfosamplerate>44100</svrinfosamplerate>
+    <svrinfopublic>0</svrinfopublic>
+</ezstream>
